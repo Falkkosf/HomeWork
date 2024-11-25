@@ -1,0 +1,11 @@
+C:\Users\Falkkkosf\source\repos\rāsu kombinētājs\rāsu kombinētājs\obj\Debug\rāsu kombinētājs.csproj.AssemblyReference.cache
+C:\Users\Falkkkosf\source\repos\rāsu kombinētājs\rāsu kombinētājs\obj\Debug\rāsu_kombinētājs.Colors.resources
+C:\Users\Falkkkosf\source\repos\rāsu kombinētājs\rāsu kombinētājs\obj\Debug\rāsu_kombinētājs.Main.resources
+C:\Users\Falkkkosf\source\repos\rāsu kombinētājs\rāsu kombinētājs\obj\Debug\rāsu_kombinētājs.Properties.Resources.resources
+C:\Users\Falkkkosf\source\repos\rāsu kombinētājs\rāsu kombinētājs\obj\Debug\rāsu kombinētājs.csproj.GenerateResource.cache
+C:\Users\Falkkkosf\source\repos\rāsu kombinētājs\rāsu kombinētājs\obj\Debug\rāsu kombinētājs.csproj.CoreCompileInputs.cache
+C:\Users\Falkkkosf\source\repos\rāsu kombinētājs\rāsu kombinētājs\bin\Debug\rāsu kombinētājs.exe.config
+C:\Users\Falkkkosf\source\repos\rāsu kombinētājs\rāsu kombinētājs\bin\Debug\rāsu kombinētājs.exe
+C:\Users\Falkkkosf\source\repos\rāsu kombinētājs\rāsu kombinētājs\bin\Debug\rāsu kombinētājs.pdb
+C:\Users\Falkkkosf\source\repos\rāsu kombinētājs\rāsu kombinētājs\obj\Debug\rāsu kombinētājs.exe
+C:\Users\Falkkkosf\source\repos\rāsu kombinētājs\rāsu kombinētājs\obj\Debug\rāsu kombinētājs.pdb
