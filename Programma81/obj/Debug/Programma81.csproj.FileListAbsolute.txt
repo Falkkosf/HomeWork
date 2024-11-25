@@ -1,0 +1,32 @@
+E:\Dokumenti\RTV\C# projekti\Programma81\bin\Debug\Programma81.exe.config
+E:\Dokumenti\RTV\C# projekti\Programma81\bin\Debug\Programma81.exe
+E:\Dokumenti\RTV\C# projekti\Programma81\bin\Debug\Programma81.pdb
+E:\Dokumenti\RTV\C# projekti\Programma81\obj\Debug\Programma81.csprojAssemblyReference.cache
+E:\Dokumenti\RTV\C# projekti\Programma81\obj\Debug\Programma81.Form1.resources
+E:\Dokumenti\RTV\C# projekti\Programma81\obj\Debug\Programma81.Form2.resources
+E:\Dokumenti\RTV\C# projekti\Programma81\obj\Debug\Programma81.Form3.resources
+E:\Dokumenti\RTV\C# projekti\Programma81\obj\Debug\Programma81.Form4.resources
+E:\Dokumenti\RTV\C# projekti\Programma81\obj\Debug\Programma81.Form5.resources
+E:\Dokumenti\RTV\C# projekti\Programma81\obj\Debug\Programma81.Form6.resources
+E:\Dokumenti\RTV\C# projekti\Programma81\obj\Debug\Programma81.Form7.resources
+E:\Dokumenti\RTV\C# projekti\Programma81\obj\Debug\Programma81.Properties.Resources.resources
+E:\Dokumenti\RTV\C# projekti\Programma81\obj\Debug\Programma81.csproj.GenerateResource.cache
+E:\Dokumenti\RTV\C# projekti\Programma81\obj\Debug\Programma81.exe
+E:\Dokumenti\RTV\C# projekti\Programma81\obj\Debug\Programma81.pdb
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\bin\Debug\Programma81.exe.config
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\bin\Debug\Programma81.exe
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\bin\Debug\Programma81.pdb
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.csproj.AssemblyReference.cache
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.Form1.resources
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.Form2.resources
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.Form3.resources
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.Form4.resources
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.Form5.resources
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.Form6.resources
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.Form7.resources
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.Properties.Resources.resources
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.Start.resources
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.csproj.GenerateResource.cache
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.csproj.CoreCompileInputs.cache
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.exe
+C:\Users\Falkkkosf\Downloads\programma81\Programma81\obj\Debug\Programma81.pdb
